@@ -1,0 +1,40 @@
+body {
+    font-size: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: gray;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    background-color: pink;
+    color: gray;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+}
+
+.submission {
+    text-align: center;
+}
+
+input, button {
+    height: 70px;
+    width: 400px;
+    font-size: 60px;
+}
+
+button:hover {
+    background-color: pink;
+}
+
+#display {
+    margin: 5px
+}
+
+h5 {
+    display: inline;
+}
